@@ -2,7 +2,10 @@
 Group project for CMSC723 Graduate NLP at UMD Fall 2024
 
 ## Installation
-Assumes '../GSM-IC/' is the location of the dataset 
+Assumes you cloned this repo: https://github.com/google-research-datasets/GSM-IC \
+Assumes '../GSM-IC/' is the location of the cloned repo. 
+
+```bash
 
 ## TODO
 - [ ] understand keys in JSON
