@@ -1,0 +1,5 @@
+The shoe size of [ROLE] is [NUMBER].
+[ROLE] is [NUMBER] years old.
+The height of [ROLE] is [NUMBER] feet.
+[ROLE] bought [NUMBER] tomatoes from the grocery store.
+[ROLE] has read [NUMBER] books in the past year.
